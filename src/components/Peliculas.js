@@ -1,11 +1,18 @@
 import React from "react";
-import Pelicula from "./Pelicula";
+import CardGroup from "react-bootstrap/CardGroup";
+import Pelicula from "./Pelucla";
 
 const Peliculas = (props) => {
   return (
-    <div>
-      aca se debe recorrer la lista de peliculas usando el componente pelicula
-    </div>
+    <CardGroup>
+      {props.map((pelicula) => (
+        <Pelicula
+          poster={pelicula.poster}
+          title={pelicula.title}
+          fullplot={pelicula.fullplot}
+        ></Pelicula>
+      ))}
+    </CardGroup>
   );
 };
 

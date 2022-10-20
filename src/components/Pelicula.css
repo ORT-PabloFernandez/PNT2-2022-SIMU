@@ -1,0 +1,14 @@
+.pelicula_img img {
+  width: 100px;
+  height: 100px;
+}
+
+.cardHeader {
+  background: black;
+  text-align: center;
+}
+
+.cardFooter {
+  background: white;
+  text-align: center;
+}
