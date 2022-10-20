@@ -1,0 +1,21 @@
+.paginator {
+  margin-top: 50px;
+}
+
+.movieCard {
+  background-color: #f7f7f7;
+  width: 18rem;
+  max-height: 50rem;
+  margin-top: 2rem;
+  margin-left: 2rem;
+}
+
+.movieText {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.modalImage {
+  width: -webkit-fill-available;
+}
