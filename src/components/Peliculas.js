@@ -1,11 +1,11 @@
 import React from "react";
 import CardGroup from "react-bootstrap/CardGroup";
-import Pelicula from "./Pelucla";
+import Pelicula from "./Pelicula";
 
 const Peliculas = (props) => {
   return (
     <CardGroup>
-      {props.map((pelicula) => (
+      {props.pelis.map((pelicula) => (
         <Pelicula
           poster={pelicula.poster}
           title={pelicula.title}
