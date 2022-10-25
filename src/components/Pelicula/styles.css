@@ -1,0 +1,14 @@
+.container {
+  margin: 2px;
+}
+
+.img {
+  width: 200px;
+  height: 300px;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
