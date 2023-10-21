@@ -1,0 +1,12 @@
+.page-button {
+  background-color: rgb(192, 30, 68);
+  color: white;
+  font-weight: bold;
+  border: none;
+  height: 30px;
+  width: 130px;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  border-radius: 6px;
+}
