@@ -1,6 +1,6 @@
 # PROGRAMACION DE NUEVAS TECNOLOGIAS 2
 
-## Instrucciones de resolución de examen
+## Instrucciones de resolución de examen 
 
 Es tu primer día en [tecnoshare.com](http://tecnoshare.com) luego de un intenso entrenamiento de 10 semanas por fin tenes la oportunidad de mostrar lo que aprendiste, y tu potencial como desarrollador react.
 
